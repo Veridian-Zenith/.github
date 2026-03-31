@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://discord.gg/Vprc6XRkRg">
-    <img src="https://img.shields.io/badge/Discord-Zenith%20Commons-5865F2?logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-Welcome,%20Arbiter.-5865F2?logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://opensource.org/licenses/OSL-3.0">
     <img src="https://img.shields.io/badge/License-OSL--3.0-amber.svg" alt="License: OSL-3.0" />
