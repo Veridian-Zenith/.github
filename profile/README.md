@@ -24,6 +24,7 @@
 Veridian Zenith is more than a collective—it is a digital forge. We operate at the intersection of ancient aesthetics and cutting-edge performance. Our focus lies in building systems that are as resilient as they are beautiful.
 
 ### ᚠ The Philosophy
+
 Every line of code is intentional. Like runes carved into stone, our software is built for permanence, clarity, and uncompromising speed. We believe in the **"Nordic Way"**—minimalist, effective, and powerful.
 
 **Note: Minamilism does not apply to design, as we believe every design has a function**
@@ -34,11 +35,18 @@ Every line of code is intentional. Like runes carved into stone, our software is
 
 Explore the digital runes we've carved into the void:
 
-- **[AxiomOS](https://github.com/Veridian-Zenith/AxiomOS)**: A custom 64-bit operating system built from scratch using **C++26**. Targets UEFI/Secure Boot with a focus on modern Intel hardware and high-performance kernel architecture.
-- **[Voix](https://github.com/Veridian-Zenith/Voix)**: A secure privilege management tool (sudo/doas alternative) featuring PAM authentication and a focus on minimal attack surface.
-- **[Meshiji](https://github.com/Veridian-Zenith/Meshiji)**: A modern, Linux-only file explorer built with **Flutter**. Provides a clean, intuitive interface for managing files.
-- **[Peguni](https://github.com/Veridian-Zenith/Peguni)**: A text-based virtual pet simulator featuring a unique constructed language (**Vaesktöng**). A companion in the terminal, built for the void.
-- **[Misc Artifacts](https://github.com/Veridian-Zenith/misc)**: Experimental utilities including **ZigSysMon** (lightweight /proc monitor), benchmarks, and FFI experiments.
+<details>
+<summary><b>Click to see our artifacts</b></summary>
+
+| Artifact | Purpose |
+| :--- | :--- |
+| **[AxiomOS](https://github.com/Veridian-Zenith/AxiomOS)** | Custom 64-bit OS (C++26, UEFI). |
+| **[Voix](https://github.com/Veridian-Zenith/Voix)** | Secure PAM privilege management. |
+| **[Meshiji](https://github.com/Veridian-Zenith/Meshiji)** | Flutter-based Linux file explorer. |
+| **[Peguni](https://github.com/Veridian-Zenith/Peguni)** | Terminal virtual pet simulator. |
+| **[Misc Artifacts](https://github.com/Veridian-Zenith/misc)** | ZigSysMon, Benchmarks, FFI. |
+
+</details>
 
 ---
 
