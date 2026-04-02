@@ -34,7 +34,7 @@ Every line of code is intentional. Like runes carved into stone, our software is
 
 Explore the digital runes we've carved into the void:
 
-- **[AxiomOS](https://github.com/Veridian-Zenith/AxiomOS)**: A custom 64-bit operating system built from scratch using **Zig**. Targets UEFI/Secure Boot with a focus on modern Intel hardware and high-performance kernel architecture.
+- **[AxiomOS](https://github.com/Veridian-Zenith/AxiomOS)**: A custom 64-bit operating system built from scratch using **C++26**. Targets UEFI/Secure Boot with a focus on modern Intel hardware and high-performance kernel architecture.
 - **[Voix](https://github.com/Veridian-Zenith/Voix)**: A secure privilege management tool (sudo/doas alternative) featuring PAM authentication and a focus on minimal attack surface.
 - **[Meshiji](https://github.com/Veridian-Zenith/Meshiji)**: A modern, Linux-only file explorer built with **Flutter**. Provides a clean, intuitive interface for managing files.
 - **[Peguni](https://github.com/Veridian-Zenith/Peguni)**: A text-based virtual pet simulator featuring a unique constructed language (**Vaesktöng**). A companion in the terminal, built for the void.
@@ -46,9 +46,9 @@ Explore the digital runes we've carved into the void:
 
 Whether for collaboration, consultation, or to report a fracture in reality, the Architect awaits.
 
-- **Discord**: [Join Zenith Commons](https://discord.gg/Vprc6XRkRg)
+- **Discord**: [Join the Arbiters](https://discord.gg/Vprc6XRkRg)
 - **Website**: [veridianzenith.qzz.io](https://veridianzenith.qzz.io)
-- **Email**: `daedaevibin@ik.me` (as referenced in our voting scrolls)
+- **Email**: `daedaevibin@ik.me`
 
 ---
 
