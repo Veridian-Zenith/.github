@@ -40,11 +40,10 @@ Explore the digital runes we've carved into the void:
 
 | Artifact | Purpose |
 | :--- | :--- |
-| **[AxiomOS](https://github.com/Veridian-Zenith/AxiomOS)** | Custom 64-bit OS (C++26, UEFI). |
 | **[Voix](https://github.com/Veridian-Zenith/Voix)** | Secure PAM privilege management. |
-| **[Meshiji](https://github.com/Veridian-Zenith/Meshiji)** | Flutter-based Linux file explorer. |
+| **[Meshiji](https://github.com/Veridian-Zenith/Meshiji)** | Flutter-based Linux file explorer. (Archived) |
 | **[Peguni](https://github.com/Veridian-Zenith/Peguni)** | Terminal virtual pet simulator. |
-| **[Misc Artifacts](https://github.com/Veridian-Zenith/misc)** | ZigSysMon, Benchmarks, FFI. |
+| **[Misc Artifacts](https://github.com/Veridian-Zenith/misc)** | Random tooling made for testing and learning purposes. |
 
 </details>
 
@@ -54,7 +53,7 @@ Explore the digital runes we've carved into the void:
 
 Whether for collaboration, consultation, or to report a fracture in reality, the Architect awaits.
 
-- **Discord**: [Join the Arbiters](https://discord.gg/Vprc6XRkRg)
+- **Discord**: [Join Us <3 (16 members)](https://discord.gg/Vprc6XRkRg)
 - **Website**: [veridianzenith.qzz.io](https://veridianzenith.qzz.io)
 - **Email**: `daedaevibin@ik.me`
 
