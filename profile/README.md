@@ -1,7 +1,7 @@
 # Veridian Zenith
 
 <p align="center">
-  <img src="https://veridianzenith.qzz.io/assets/logo.svg" alt="Veridian Zenith Logo" width="200" />
+  <img src="https://vzdev.indevs.in/assets/logo.svg" alt="Veridian Zenith Logo" width="200" />
 </p>
 
 <p align="center">
@@ -53,14 +53,15 @@ Explore the digital runes we've carved into the void:
 
 Whether for collaboration, consultation, or to report a fracture in reality, the Architect awaits.
 
-- **Discord**: [Join Us <3 (16 members)](https://discord.gg/Vprc6XRkRg)
-- **Website**: [veridianzenith.qzz.io](https://veridianzenith.qzz.io)
-- **Email**: `daedaevibin@ik.me`
+- **Discord**: [Join Us <3 (17 members)](https://discord.gg/Vprc6XRkRg)
+- **Website**: [vzdev.indevs.in](https://vzdev.indevs.in)
+- **Email**: [daedaevibin@ik.me](mailto:daedaevibin@ik.me)
+- **DoT/DoQ for DNS Services**: `verz.nx.kg`
 
 ---
 
 <p align="center">
-  <img src="https://veridianzenith.qzz.io/assets/logo.svg" width="40" opacity="0.5" />
+  <img src="https://vzdev.indevs.in/assets/logo.svg" width="40" opacity="0.5" />
   <br>
   <em>© 2026 Veridian Zenith • Forged in the Void</em>
 </p>
